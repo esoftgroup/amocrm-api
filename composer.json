@@ -1,0 +1,10 @@
+{
+    "name": "esoftgroup/amocrm-api",
+    "authors": [
+        {
+            "name": "igorfominyh",
+            "email": "igor-fominykh@yandex.ru"
+        }
+    ],
+    "require": {}
+}
